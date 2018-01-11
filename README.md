@@ -16,3 +16,4 @@
 sudo adduser <your_username> vboxsf
 ```
 - Log out and log back in.
+- Now you can share your computer files from host to guest and vice-versa.
