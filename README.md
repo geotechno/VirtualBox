@@ -11,5 +11,7 @@
 - Restart and log back in.
 - You should now see the shared folders appear in /media/<your_username>/sf_<host_shared_folder_name>.
 - Now you should add <your_username> to **vboxsf** group. In a terminal, type:
-> 'sudo adduser <your_username> vboxsf'
+
+`sudo adduser <your_username> vboxsf`
+
 - Log out and log back in.
